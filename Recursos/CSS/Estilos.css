@@ -1,0 +1,20 @@
+body{
+  background-color: #C0C0C0;
+}
+.textDefaultColor{
+  text-align: center;
+  color:#FF0000;
+}
+#title{
+  color:#FFFFFF;
+  text-align: center;
+  font-family: verdana;
+  font-size: 18px;
+  text-decoration: line-through;
+  letter-spacing: 10px;
+  word-spacing: 30px;
+}
+#boxsearch{
+  text-align: center;
+  font-family: verdana;
+}
